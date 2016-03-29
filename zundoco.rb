@@ -1,5 +1,5 @@
 class Zundoko
-  ZUN_DOKO = ['zun', 'doko']
+  ZUN , DOKO = ZUN_DOKO = ['zun', 'doko']
 
   def initialize
     @i = 0
